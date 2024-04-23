@@ -11,6 +11,7 @@ Line 103: Replace with the token of your bot application
 
 Usage:
 
+Step 0: Setup FFMPEG on your computer/server; ffmpeg.org/download.html
 Step 1: go to discord.com/developers/applications and create an application for the bot. The bot requires all privledged gateway intents and the following permissions integer: 35463581732096
 Step 2: paste the token of the bot in the code and edit settings as you please
 Step 3: Run !!play youtube.com/example to play audio from a youtube link.
